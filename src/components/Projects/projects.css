@@ -1,0 +1,36 @@
+.projects_cont {
+    padding: 70px 70px;
+    background-color: black;
+    color: white;
+    font-family: "Roboto Flex", sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 40px; 
+}
+
+.projects_title{
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.video_content {
+    display: flex;
+    gap: 70px;
+}
+
+.video {
+    width: 600px;
+    height: 300px;
+}
+
+.video_text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+}
+
+.project_video_text {
+    font-weight: 400;
+    font-size: 30px;
+}
